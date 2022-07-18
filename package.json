@@ -12,7 +12,8 @@
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/adapter-static": "^1.0.0-next.37",
 		"@sveltejs/kit": "next",
-		"svelte": "^3.44.0",
+		"svelte": "^3.49.0",
+		"sveltestrap": "github:ClapClap-app/sveltestrap",
 		"vite": "^3.0.0"
 	},
 	"type": "module"
